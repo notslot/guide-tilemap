@@ -866,7 +866,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tileset Obstacles_2
+      name: Bush Stomped
       rect:
         serializedVersion: 2
         x: 1536
@@ -887,7 +887,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tileset Obstacles_6
+      name: Bush
       rect:
         serializedVersion: 2
         x: 1792
@@ -925,7 +925,6 @@ TextureImporter:
       Tilemap Obstacles_30: -1201027601
       Tileset Obstacles_5: 1044091125
       Tilemap Obstacles_6: -790843944
-      Tileset Obstacles_6: -264542121
       Tilemap Obstacles_33: 1178698101
       Tilemap Obstacles_35: 1457855595
       Tileset Obstacles_0: -1506020142
@@ -963,9 +962,10 @@ TextureImporter:
       Tilemap Obstacles_1: 2063059650
       Tileset Obstacles_4: -1855351024
       Tilemap Obstacles_18: -411009289
+      Bush: -264542121
       Tilemap Obstacles_21: 1709512488
+      Bush Stomped: 27295733
       Tilemap Obstacles_15: -1473186317
-      Tileset Obstacles_2: 27295733
   spritePackingTag: 
   pSDRemoveMatte: 0
   userData: 
